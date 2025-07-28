@@ -3,7 +3,7 @@ import subprocess
 import json
 import argparse
 
-REDIRECTOR = "root://xrootd-cms.infn.it/"
+REDIRECTOR = "root://cmsxcache.hep.wisc.edu/"
 
 def determine_year_key(dataset):
     """Determine year key for output grouping."""

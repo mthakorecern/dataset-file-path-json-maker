@@ -1,4 +1,4 @@
-# Python Script to create a json file in the format
+# Python Script to create a json file with the list of root files corresponding to a dataset(s)
 
 ##  Usage: 
 `
